@@ -1,0 +1,23 @@
+package br.edu.senai.controle;
+
+import br.edu.senai.modelo.Pessoa;
+import br.edu.senai.modelo.Quadrilatero;
+
+public class Main 
+{
+
+	public static void main(String[] args) 
+	{
+//		Quadrilatero q = new Quadrilatero();
+//		Ambiente amb1 = new Ambiente;
+//		Objeto obj1 = new Objeto;
+		Pessoa pess1 = new Pessoa;
+
+		
+		
+		
+		
+
+	}
+
+}

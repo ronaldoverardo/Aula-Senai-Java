@@ -1,0 +1,33 @@
+import java.io.File;
+import javax.swing.JFileChooser;
+import javax.swing.filechooser.FileFilter;
+
+public class Main 
+{
+
+	public static void main(String[] args) 
+	{
+        JFileChooser escolhedor = new JFileChooser();
+
+        escolhedor.setFileFilter(new FileFilter() {
+            @Override
+            public String getDescription() {
+                return "Somente diretórios e .txt"; //Exibe essa mensagem
+            }
+            @Override
+            public boolean accept(File arq) {
+                return (arq.getName().endsWith(".txt") || arq.isDirectory());
+                //Só mostra arquivos terminados em .txt ou diretórios
+            }
+        });
+
+        int opcaoEscolhida = escolhedor.showOpenDialog(null); //Janela para abrir um arquivo
+
+        if(opcaoEscolhida == JFileChooser.APPROVE_OPTION) {
+            //Código pra caso o usuário tenha escolhido abrir um arquivo
+        }
+		
+		
+	}
+
+}

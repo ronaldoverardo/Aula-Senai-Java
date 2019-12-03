@@ -1,0 +1,39 @@
+package br.edu.senai.modelo;
+
+public abstract class Volume extends Quadrilatero
+{
+	private static Ambiente amb1;
+
+	/**
+	 * 
+	 */
+	public Volume() 
+	{
+		super();
+	}
+
+	/**
+	 * @param tamanhoX
+	 * @param tamanhoY
+	 * @param tamXAmb
+	 * @param tamYAmb
+	 */
+	public Volume(int tamanhoX, int tamanhoY, int tamXAmb, int tamYAmb) 
+	{
+		super(tamanhoX, tamanhoY);
+		Volume.amb1 = new Ambiente(tamXAmb, tamYAmb);		
+	}
+
+	public static Ambiente getAmb1() 
+	{
+		return amb1;
+	}
+
+	public static void setAmb1(Ambiente amb1) 
+	{
+		Volume.amb1 = amb1;
+	}
+	
+	
+	
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="Pessoa"/>
+<fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
+<fullyQualifiedTypeName name="br.edu.senai.modelo.Cliente"/>
+<fullyQualifiedTypeName name="br.edu.senai.modelo.Funcionario"/>
+<fullyQualifiedTypeName name="br.edu.senai.modelo.Veiculo"/>
+<fullyQualifiedTypeName name="br.edu.senai.modelo.VeiculoTerrestre"/>
+<fullyQualifiedTypeName name="br.edu.senai.modelo.VeiculoAereo"/>
+<fullyQualifiedTypeName name="br.edu.senai.modelo.Carro"/>
+<fullyQualifiedTypeName name="br.edu.senai.modelo.Moto"/>
+<fullyQualifiedTypeName name="br.edu.senai.modelo.Aviao"/>
+<fullyQualifiedTypeName name="br.edu.senai.modelo.Helicoptero"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="br.edu.senai.modelo.Objeto"/>
+<fullyQualifiedTypeName name="br.edu.senai.modelo.PessoaInterface"/>
+<fullyQualifiedTypeName name="br.edu.senai.modelo.Quadrilatero"/>
+<fullyQualifiedTypeName name="br.edu.senai.modelo.Volume"/>
+<fullyQualifiedTypeName name="br.edu.senai.modelo.Ambiente"/>
+<fullyQualifiedTypeName name="br.edu.senai.modelo.Pessoa"/>
+</qualifiedTypeNameHistroy>
