@@ -1,8 +1,0 @@
-package br.edu.senai.modelo;
-
-public interface PessoaInterface 
-{
-	public void deslocar(int descX, int descY);
-	
-	
-}

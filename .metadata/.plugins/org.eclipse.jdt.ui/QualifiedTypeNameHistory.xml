@@ -25,4 +25,6 @@
 <fullyQualifiedTypeName name="br.edu.senai.modelo.Volume"/>
 <fullyQualifiedTypeName name="br.edu.senai.modelo.Ambiente"/>
 <fullyQualifiedTypeName name="br.edu.senai.modelo.Pessoa"/>
+<fullyQualifiedTypeName name="javax.swing.filechooser.FileNameExtensionFilter"/>
+<fullyQualifiedTypeName name="java.io.FilenameFilter"/>
 </qualifiedTypeNameHistroy>
